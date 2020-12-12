@@ -5,8 +5,8 @@ from pygame.locals import *
 
 ###### Global Variables for the game  ######
 FPS = 32
-SCREENWIDTH = 289
-SCREENHEIGHT = 511
+SCREENWIDTH = 288
+SCREENHEIGHT = 512
 SCREEN = pygame.display.set_mode((SCREENWIDTH, SCREENHEIGHT))
 GROUNDY = SCREENHEIGHT * 0.8
 GAME_SPRITES = {}
